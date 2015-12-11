@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+it initializes a git repository
+ git init
+Initialized empty Git repository in C:/Users/Costco440/version-control/reflections/.git/
+git status
+Now displays the two files
