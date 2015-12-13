@@ -4,3 +4,35 @@ it initializes a git repository
 Initialized empty Git repository in C:/Users/Costco440/version-control/reflections/.git/
 git status
 Now displays the two files
+git status
+Displays two files
+
+How is the staging area different from the working directory and the repository? What value do you think it offers
+
+Staging area contains commit files where working area contains current files
+Tha value is that we can keep track of our changes should we need to back out our changes
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+executing git stage to point at the master files
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+to make smakk fixes, test them, then merge changes
+
+How do the diagrams help you visualize the branch structure?
+
+to follow commits when 2 programers are working on th ame program using a branch structure
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+to integrate chanes made by two different programmers
+they are displayed that way to show themerges from different branches
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Auomatically
+pros points out the error
+cons does not display eperimental easy-mode commits
+Manually
+pros you have control when you want to execute them
+cons if programmer is not methodic, it cn cause an error
