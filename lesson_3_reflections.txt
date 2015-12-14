@@ -9,3 +9,5 @@ Branches lcal remote branch
 Fork to add code to share with developer
 Clones to work on share projects
 Branch to work independently 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+to keep track of changes
