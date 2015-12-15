@@ -14,3 +14,8 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
   using zip compressed files
   GitHub is easier
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+  make changes in a separate branch when two ppl are working on the same file
+  directly in master when is a quick change and only one person is working on that file
+  benefit conurrent changes can be merge to move to production
+  using master directly when no one else is working on that file
